@@ -1,0 +1,22 @@
+import turtle 
+turtle.pensize(4)
+turtle.color("indigo")
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+
+turtle.color("violet")
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+
+turtle.color("orange")
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
